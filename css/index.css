@@ -1,0 +1,70 @@
+body {
+ background-image: url(https://phonoteka.org/uploads/posts/2021-07/1625180448_27-phonoteka-org-p-dvoichnii-kod-oboi-oboi-krasivo-31.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ width: 100%;
+ margin: 0;
+}
+header {
+ background-color: #75eac7aa;
+ color: #fff;
+ padding: 20px;
+ margin: 0;
+ text-align: center;
+}
+main {
+ margin: 40px auto;
+ max-width: 600px;
+ padding: 0 20px;
+}
+h2 {
+ margin-top: 40px;
+}
+ul {
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+li {
+ margin-bottom: 10px;
+}
+a {
+ color: #ffffff;;
+ text-decoration: none;
+ font-weight: 700;
+}
+a:hover {
+    text-decoration: underline; 
+    color: #75eac6;
+}
+
+#more {
+    display: none;
+}
+
+#btn {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #75eac7aa;
+    color: #ffffff;
+}
+
+footer {
+ background-color: #75eac7aa;
+ color: #fff;
+ padding: 10px 0 10px 0;
+ text-align: center;
+ bottom: 0;
+ left: 0;
+ width: 100%;
+ margin: 0;
+}
+
+* {
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: #7c0707 10px 0 10px;
+}
+
